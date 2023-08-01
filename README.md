@@ -10,7 +10,7 @@ Application created in java to learn binary, it also has a decimal to binary con
 <p>Finally, Click Run Project</p>
 
 <h1>Project Video</h1>
-<a href="https://ibb.co/6NYN6VN"><img src="https://i.ibb.co/SJNJqWJ/Thumbnail.jpg" alt="Thumbnail" border="0"></a>
+<a href="https://youtu.be/fvkaWEfHOFA"><img src="https://i.ibb.co/SJNJqWJ/Thumbnail.jpg" alt="Thumbnail" border="0"></a>
 
 
 
